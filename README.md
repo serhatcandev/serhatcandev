@@ -5,7 +5,7 @@
 Since I was a child, I always wanted to be a software developer because I have been involved with computers. No matter how much I wanted software, I was never interested in it when I was little. I decided to take my high school in Vocational high school because there was a software department. In high school, I joined the database department, but the education we received was beyond disgrace and I was seriously alienated from the software. Now I am learning software by myself. I learned JavaScript, my current goal is React.
 
 - ~ I’m currently working on a clone website with React and Tailwind for practice.
-- ~ I’m currently learning ReactJS
+- ~ I’m currently learning ReactJS + JavaScript (refresh)
 - ~ How to reach me: serhatcansc0@gmail.com
 - ~ My Website: ([serhatcan.dev](http://serhatcan.dev/))
 

@@ -1,12 +1,11 @@
 ### Hi there 👋, my name is Serhat
 
-#### A self-taught software developer dealing with Front End since March 2022
+#### A self-taught software developer dealing with FrontEnd since March 2022
 
 Since I was a child, I always wanted to be a software developer because I have been involved with computers. No matter how much I wanted software, I was never interested in it when I was little. I decided to take my high school in Vocational high school because there was a software department. In high school, I joined the database department, but the education we received was beyond disgrace and I was seriously alienated from the software. Now I am learning software by myself. I learned JavaScript, my current goal is React.
 
-- ~ I am currently trying to improve myself on JavaScript.
 - ~ I’m currently learning ReactJS + JavaScript (JS refresh)
-- ~ How to reach me: serhatcansc0@gmail.com
+- ~ Reach me: serhatcansc0@gmail.com
 - ~ My Website: ([serhatcan.dev](http://serhatcan.dev/))
 
 ## Connect with me

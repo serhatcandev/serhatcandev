@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Serhat
+### Hi there 👋, my name is Ferhat
 
 #### A self-taught software developer dealing with Front End since March 2022
 

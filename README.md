@@ -2,7 +2,7 @@
 
 #### A self-taught developer dealing with Frontend since March 2022
 
-~ Portfolio: http://serhatcan.dev/
+~ Portfolio: http://www.serhatcan.dev/
 
 ~ Reach me: serhatcansc0@gmail.com
 

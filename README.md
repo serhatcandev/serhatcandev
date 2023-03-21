@@ -1,6 +1,6 @@
 ### Hi there👋, my name is Serhat
 
-#### A self-taught developer
+#### A self-taught Frontend developer
 
 ~ Portfolio: http://www.serhatcan.dev/
 

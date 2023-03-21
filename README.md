@@ -1,6 +1,6 @@
 ### Hi there👋, my name is Serhat
 
-#### A self-taught developer dealing with Frontend since March 2022
+#### A self-taught developer
 
 ~ Portfolio: http://www.serhatcan.dev/
 

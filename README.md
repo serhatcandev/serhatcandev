@@ -6,7 +6,9 @@
 
 ~ Reach me: serhatcansc0@gmail.com
 
-~ I’m currently learning ReactJS.
+~ I’m currently learning ReactJS and MERN.
+
+const {html, css, javascript, react} = props.data;
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhatcandev/) 

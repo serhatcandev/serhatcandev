@@ -6,8 +6,6 @@
 
 ~ Reach me: serhatcansc0@gmail.com
 
-~ I’m currently learning ReactJS.
-
 - Be Greater.
 
 ` const {html, css, javascript, react} = props.data; `

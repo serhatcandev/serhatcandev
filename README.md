@@ -2,7 +2,7 @@
 
 #### A self-taught Frontend developer.
 
-~ Portfolio: http://www.serhatcan.dev/
+~ Website: http://www.serhatcan.dev/
 
 ~ Reach me: serhatcansc0@gmail.com
 

@@ -6,6 +6,8 @@
 
 ~ Reach me: serhatcansc0@gmail.com
 
+~ My CV: [CV.pdf](https://github.com/serhatcandev/serhatcandev/files/15328665/Ferhat.Can.CV.pdf)
+
 - Be Greater.
 
 ## Connect with me

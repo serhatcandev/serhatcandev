@@ -1,17 +1,12 @@
-### Hi there👋, my name is Serhat
-
+### Hey, I'm Serhat
 #### A self-taught Frontend developer.
 
-~ Website: http://www.serhatcan.dev/
-
 ~ Reach me: serhatcansc0@gmail.com
-
-~ My CV: [CV.pdf](https://github.com/serhatcandev/serhatcandev/files/15328665/Ferhat.Can.CV.pdf)
+[My website &rarr;](https://serhatcan.dev)<br />
+[@serhatcandev on Twitter &rarr;](https://twitter.com/serhatcandev)
 
 - Be Greater.
-
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhatcandev/) 
+ 
 
 ## Languages and Tools
  

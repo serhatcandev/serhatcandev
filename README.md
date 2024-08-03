@@ -1,9 +1,9 @@
 ### Hey, I'm Serhat
 #### A self-taught Frontend developer.
 
-~ Reach me: serhatcansc0@gmail.com
+~ Reach me: serhatcansc0@gmail.com<br />
 [My website &rarr;](https://serhatcan.dev)<br />
-[@serhatcandev on Twitter &rarr;](https://twitter.com/serhatcandev)
+[@serhatcandev on Twitter &rarr;](https://twitter.com/serhatcandev)<br />
 
 - Be Greater.
  

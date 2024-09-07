@@ -1,5 +1,5 @@
 ### Hey, I'm Serhat
-#### A self-taught Frontend developer.
+#### A self-taught developer.
 
 Reach me: serhatcansc0@gmail.com<br />
 [My website &rarr;](https://serhatcan.dev)<br />
